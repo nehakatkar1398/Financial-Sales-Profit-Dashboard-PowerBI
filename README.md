@@ -25,6 +25,7 @@ This project showcases an interactive Power BI dashboard designed to analyze bus
 * Region-wise comparison
 * Segment analysis
 * Product-wise Insights
+* https://github.com/nehakatkar1398/Financial-Sales-Profit-Dashboard-PowerBI/blob/989d4bf250c78610ac200404cb94c4d88576153d/Profit%20Dashboard.png
   
 # 🔹 Tools Used
 * Power BI
