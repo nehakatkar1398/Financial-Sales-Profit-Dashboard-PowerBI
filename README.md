@@ -10,8 +10,8 @@ This project showcases an interactive Power BI dashboard designed to analyze bus
 # 🧭 Summary Page
 * Central navigation page
 * Buttons to switch between dashboards
-* ![Summary Page](Summary.png)
-
+* https://github.com/nehakatkar1398/Financial-Sales-Profit-Dashboard-PowerBI/blob/989d4bf250c78610ac200404cb94c4d88576153d/Summary.png
+  
 # 📈 Sales Dashboard
 * KPI Cards: Total Sales, COGS, Profit, Profit Margin
 * Sales Trend Analysis
