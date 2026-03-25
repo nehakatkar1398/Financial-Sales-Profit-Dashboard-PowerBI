@@ -9,6 +9,7 @@ This project showcases an interactive Power BI dashboard designed to analyze bus
 # 🧭 Summary Page
 * Central navigation page
 * Buttons to switch between dashboards
+* 
 
 # 📈 Sales Dashboard
 * KPI Cards: Total Sales, COGS, Profit, Profit Margin
@@ -39,7 +40,7 @@ This project showcases an interactive Power BI dashboard designed to analyze bus
 
 # 🔹 Author
 Neha Katkar  
-Aspiring Data Analyst
+
 
 
 
