@@ -18,6 +18,7 @@ This project showcases an interactive Power BI dashboard designed to analyze bus
 * Country-wise Performance
 * Product-wise Insights
 * Segment-wise Insights
+* https://github.com/nehakatkar1398/Financial-Sales-Profit-Dashboard-PowerBI/blob/f96f5e4006c8115bfc43a4d774f6117056435db7/Sales_Dashboard.png
 
 # 📊 Profit Dashboard
 * KPI Cards: Total Sales, COGS, Profit, Profit Margin
