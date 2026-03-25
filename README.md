@@ -1,5 +1,5 @@
 # 📊 Financial Sales & Profit Dashboard (Power BI)
-Financial_Dashboard_.pbix
+https://github.com/nehakatkar1398/Financial-Sales-Profit-Dashboard-PowerBI/blob/323825fad340c627aa6cfa690dcd0742dd79f3f4/Financial_Dashboard_.pbix
 
 # 🔹 Project Overview
 This project showcases an interactive Power BI dashboard designed to analyze business performance using sales and profit metrics. It includes a navigation-based structure for better user experience.
